@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/1b689a6c-af09-4136-838f-10b56c2874d0" width=300>
 
 ---
-### IC設計攻頂補助計畫」申請事項
+### IC設計攻頂補助計畫-申請事項
 https://service.moea.gov.tw/EE514/tw/aiip/337-6108.html
 
 #### 補助範疇：
