@@ -63,7 +63,7 @@ https://technews.tw/2024/10/21/chip-based-industrial-innovation-program/
 
 
 
-<img src="https://github.com/user-attachments/assets/644ffc0d-37fe-481f-a9d2-764897242857" width=950>
+<img src="https://github.com/user-attachments/assets/644ffc0d-37fe-481f-a9d2-764897242857" width=900>
 
 
 ---
