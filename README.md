@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/1b689a6c-af09-4136-838f-10b56c2874d0" width=300>
 
 ---
-### IC設計攻頂補助計畫-申請事項
+### IC設計攻頂補助計畫-申請事項 (2025.01)
 https://service.moea.gov.tw/EE514/tw/aiip/337-6108.html
 
 #### 補助範疇：
@@ -45,7 +45,7 @@ https://technews.tw/2024/10/21/chip-based-industrial-innovation-program/
 * 而高速通訊對 AI 應用也有所需求，全球通訊廠商將矽光子技術視為關鍵發展項目之一，經濟部說明，此次補助計畫也提供**矽光子技術**支持，盼藉此研發出我國首顆自主技術的矽光子晶片，提升國內在 AI 通訊領域競爭力。
 
 ---
-#### IC 設計攻頂補助計畫核定計畫 (2024.9)
+#### IC 設計攻頂補助計畫核定計畫 (2024.09)
 
 | # | Company | 核定補助款 (K) | NTD | 總經費 (K) | NTD |
 |:-:|:-|-:|-:|-:|-:|
