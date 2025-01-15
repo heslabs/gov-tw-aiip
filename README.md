@@ -2,6 +2,8 @@
 ---
 ## IC設計攻頂補助計畫
 
+<img src="https://github.com/user-attachments/assets/1b689a6c-af09-4136-838f-10b56c2874d0" width=300>
+
 ---
 ### IC設計攻頂補助計畫」申請事項
 https://service.moea.gov.tw/EE514/tw/aiip/337-6108.html
@@ -9,3 +11,10 @@ https://service.moea.gov.tw/EE514/tw/aiip/337-6108.html
 ---
 ### IC設計攻頂補助計畫、無人機關鍵晶片及模組自主開發研發補助計畫 說明會
 https://service.moea.gov.tw/EE514/tw/aiip/337-5725.html
+
+* 依據行政院112年9月20日公告「晶片驅動臺灣產業創新方案」，重點推動我國IC設計業者投入創新晶片及系統開發。
+* 114年度經濟部產業技術司補助方案包含「IC設計攻頂補助計畫」、「無人機關鍵晶片及模組自主開發研發補助計畫」並驅動國內發展。
+* 為協助IC設計業者及系統業者掌握計畫目標、補助範疇及申請等相關事宜，特此辦理計畫說明會，以引導業界遞件申請，敬邀與會指導
+
+Time and Place
+* 114年1月21日(二)下午2點
