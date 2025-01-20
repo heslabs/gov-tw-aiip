@@ -5,6 +5,10 @@
 <img src="https://github.com/user-attachments/assets/1b689a6c-af09-4136-838f-10b56c2874d0" width=300>
 
 ---
+## IC設計攻頂補助計畫
+https://service.moea.gov.tw/EE514/tw/aiip/335.html?fbclid=IwY2xjawH7FdZleHRuA2FlbQIxMAABHZGA8TN1EfNUMxTg7inYyhLRj1SSnyohqSXZrzf75455Jfh6eCINIjL4tA_aem_ExA9ci47moMTKrRHNQbH1Q
+
+---
 ### IC設計攻頂補助計畫-申請事項 (2025.01)
 https://service.moea.gov.tw/EE514/tw/aiip/337-6108.html
 
