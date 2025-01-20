@@ -6,7 +6,9 @@
 
 ---
 ## IC設計攻頂補助計畫
-https://service.moea.gov.tw/EE514/tw/aiip/335.html?fbclid=IwY2xjawH7FdZleHRuA2FlbQIxMAABHZGA8TN1EfNUMxTg7inYyhLRj1SSnyohqSXZrzf75455Jfh6eCINIjL4tA_aem_ExA9ci47moMTKrRHNQbH1Q
+
+* [[Link]](https://service.moea.gov.tw/EE514/tw/aiip/335.html?fbclid=IwY2xjawH7FdZleHRuA2FlbQIxMAABHZGA8TN1EfNUMxTg7inYyhLRj1SSnyohqSXZrzf75455Jfh6eCINIjL4tA_aem_ExA9ci47moMTKrRHNQbH1Q)
+* 行政院公報-「IC設計攻頂補助計畫」[[PDF]](https://service.moea.gov.tw/EE514/wSite/public/Attachment/00106/f1735549388262.pdf)
 
 ---
 ### IC設計攻頂補助計畫-申請事項 (2025.01)
