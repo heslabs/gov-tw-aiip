@@ -9,6 +9,15 @@
 * 2025 IC Taiwan Grand Challenge Pilot Program
   * https://www.nstc.gov.tw/folksonomy/detail/021bf1c5-75e6-4103-a2b1-54814f53788b?l=en
 
+
+---
+### 2025 Digital IC Workshop
+<img src="https://github.com/user-attachments/assets/1dc82639-7c76-420f-9fba-083614f8aad2" width=650>
+
+---
+### AI Chips and 3D Package Design
+<img src="https://github.com/user-attachments/assets/b77be094-99ff-46d7-8aca-95ddd17e86b1" width=650>
+
 ---
 ## IC設計攻頂補助計畫
 
