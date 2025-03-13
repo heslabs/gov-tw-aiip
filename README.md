@@ -3,8 +3,12 @@
 ## 國科會
 
 * 國科會徵求2026-2028年臺灣與越南(MOST)雙邊協議國際合作研究計畫
- * https://www.nstc.gov.tw/folksonomy/rfpDetail/db548762-0169-4051-8133-9c7ea8441d91
- 
+  * https://www.nstc.gov.tw/folksonomy/rfpDetail/db548762-0169-4051-8133-9c7ea8441d91
+* 2024 IC Taiwan Grand Challenge is calling for registration!
+  * https://www.roc-taiwan.org/ph_en/post/9756.html
+* 2025 IC Taiwan Grand Challenge Pilot Program
+  * https://www.nstc.gov.tw/folksonomy/detail/021bf1c5-75e6-4103-a2b1-54814f53788b?l=en
+
 ---
 ## IC設計攻頂補助計畫
 
